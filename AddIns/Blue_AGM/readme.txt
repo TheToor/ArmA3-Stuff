@@ -5,7 +5,7 @@ Blue AGM by (C) BlueFire
 Needed for Blue_AGM:
 	
 	AGM !?
-	Blue_MainLibary
+	Blue_MainLibrary
 
 /////////////////////////////////////////////////////////////////////
 

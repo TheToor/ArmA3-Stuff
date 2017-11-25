@@ -1,6 +1,6 @@
-if(!Blue_Libary_Init_Complete || isNil "Blue_Libary_Init_Complete") exitWith {
-	hint "Blue_Lift: Blue_MainLibary not loaded. Startup canceled";
-	diag_log "Blue_Lift: Blue_MainLibary not loaded. Startup canceled";
+if(!Blue_Library_Init_Complete || isNil "Blue_Library_Init_Complete") exitWith {
+	hint "Blue_Lift: Blue_MainLibrary not loaded. Startup canceled";
+	diag_log "Blue_Lift: Blue_MainLibrary not loaded. Startup canceled";
 };
 
 private ["_heli","_ropePos","_rope1","_rope2","_rope3","_rope4","_last_helper_1","_last_helper_2","_last_helper_3","_last_helper_4"];

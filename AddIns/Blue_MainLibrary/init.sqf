@@ -1,4 +1,4 @@
-Blue_Libary_Init_Complete = false;
+Blue_Library_Init_Complete = false;
 
 Blue_addAction = {
 	//Want better Names? Do it yourself.
@@ -54,4 +54,4 @@ Blue_SwitchMove = {
     _object switchMove _anim;
     
 };
-Blue_Libary_Init_Complete = true;
+Blue_Library_Init_Complete = true;

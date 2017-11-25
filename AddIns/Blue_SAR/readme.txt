@@ -4,7 +4,7 @@ Blue SAR System by (C) BlueFire
 
 Needed for Blue_SAR:
 	
-	Blue_MainLibary
+	Blue_MainLibrary
 	Blue_AGM
 
 /////////////////////////////////////////////////////////////////////

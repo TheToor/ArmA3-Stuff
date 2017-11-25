@@ -4,7 +4,7 @@ Blue Lift System by (C) BlueFire
 
 Needed for Blue_Lift:
 	
-	Blue_MainLibary
+	Blue_MainLibrary
 
 /////////////////////////////////////////////////////////////////////
 

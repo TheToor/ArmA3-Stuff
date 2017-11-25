@@ -1,6 +1,6 @@
-if(!Blue_Libary_Init_Complete || isNil "Blue_Libary_Init_Complete") exitWith {
-	hint "Blue_AGM: Blue_MainLibary not loaded. Startup canceled";
-	diag_log "Blue_AGM: Blue_MainLibary not loaded. Startup canceled";
+if(!Blue_Library_Init_Complete || isNil "Blue_Library_Init_Complete") exitWith {
+	hint "Blue_AGM: Blue_MainLibrary not loaded. Startup canceled";
+	diag_log "Blue_AGM: Blue_MainLibrary not loaded. Startup canceled";
 };
 
 Blue_AGM_Init_Complete = false;
